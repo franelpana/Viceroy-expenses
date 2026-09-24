@@ -15,10 +15,9 @@ Full transaction history: [`expenses.csv`](./expenses.csv).
 
 **Each person's share (50/50): $86.82**
 
-> Note: a separate $1,016.00 Domuso payment was made 2026-07-31, before August and before the
-> "Payment Accepted" pattern used elsewhere in this ledger. It isn't included above since it's
-> unclear whether it was a deposit/move-in fee or a prorated charge — confirm with Francisco/Libby
-> whether it should be split before adding it.
+> Note: a separate $1,016.00 Domuso payment was made 2026-07-31 (pre-move-in/pre-August). This
+> has already been paid and split between Francisco and Libby outside of this ledger, so it's
+> excluded from the totals above and not tracked further here.
 
 ## Latest cycle: September 2026
 
