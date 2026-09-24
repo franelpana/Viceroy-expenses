@@ -4,6 +4,22 @@ Running ledger of shared apartment costs for Viceroy Observatory Park unit 1911-
 
 Full transaction history: [`expenses.csv`](./expenses.csv).
 
+## August 2026 (move-in month — rent-free)
+
+| Vendor | Amount |
+|---|---|
+| Xfinity | $41.38 |
+| Xcel Energy | $132.26 |
+| Domuso (rent) | $0.00 — no rent charge landed in August (free move-in month) |
+| **Total** | **$173.64** |
+
+**Each person's share (50/50): $86.82**
+
+> Note: a separate $1,016.00 Domuso payment was made 2026-07-31, before August and before the
+> "Payment Accepted" pattern used elsewhere in this ledger. It isn't included above since it's
+> unclear whether it was a deposit/move-in fee or a prorated charge — confirm with Francisco/Libby
+> whether it should be split before adding it.
+
 ## Latest cycle: September 2026
 
 | Vendor | Amount |
@@ -14,6 +30,11 @@ Full transaction history: [`expenses.csv`](./expenses.csv).
 | **Total** | **$2,720.20** |
 
 **Each person's share (50/50): $1,360.10**
+
+## Running total (August + September 2026)
+
+- **Combined total:** $2,893.84
+- **Each person's share (50/50):** $1,446.92
 
 ## How this updates
 
